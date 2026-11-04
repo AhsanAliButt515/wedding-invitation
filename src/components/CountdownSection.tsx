@@ -12,7 +12,7 @@ const EVENT_DATES = {
 };
 
 const EVENT_DATE_LABELS = {
-  all: "6 November 2026",
+  all: "13 November 2026",
   hamna: "9 November 2026",
   waleed: "11 November 2026",
 };
