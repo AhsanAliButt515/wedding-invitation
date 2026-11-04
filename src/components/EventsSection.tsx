@@ -33,19 +33,19 @@ const events: WeddingEvent[] = [
   //   bgGradient: "linear-gradient(180deg, var(--ivory) 0%, #f5f0e0 50%, var(--ivory) 100%)",
   //   textOffsetTop: "mt-12", // Adjust this value to move text down (mt-12) or up (-mt-4)
   // },
-  {
-    id: "barat",
-    name: "Barat",
-    urduName: "بارات",
-    date: "13 November 2026",
-    day: "Friday",
-    time: "7:00 PM — 10:00 PM",
-    venue: "Paradise crystal Marquee",
-    address: ["Main sheikhupura Road", "Faisalabad"],
-    floralImage: "/assets/frame-wreaths.png",
-    bgGradient: "linear-gradient(180deg, var(--ivory) 0%, var(--champagne-light) 50%, var(--ivory) 100%)",
-    textOffsetTop: "mt-0", // Adjust this value to move text down or up
-  },
+  // {
+  //   id: "barat",
+  //   name: "Barat",
+  //   urduName: "بارات",
+  //   date: "13 November 2026",
+  //   day: "Friday",
+  //   time: "7:00 PM — 10:00 PM",
+  //   venue: "Paradise crystal Marquee",
+  //   address: ["Main sheikhupura Road", "Faisalabad"],
+  //   floralImage: "/assets/frame-wreaths.png",
+  //   bgGradient: "linear-gradient(180deg, var(--ivory) 0%, var(--champagne-light) 50%, var(--ivory) 100%)",
+  //   textOffsetTop: "mt-0", // Adjust this value to move text down or up
+  // },
   {
     id: "valima",
     name: "Valima",
